@@ -10,7 +10,11 @@ I made the following changes to the code:
 5. Add comments
 
 The following is a screenshot of the final draft of the project:
-./horiseon read me.png
+./horiseon screenshot.png
+
+URL: https://chrisphailey.github.io/horiseon-challenge/
+
+
 
 
 
